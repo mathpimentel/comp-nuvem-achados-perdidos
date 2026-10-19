@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.venv/
+*.tar.gz
+!docs/evidencias/bonus-backup/fotos.tar.gz
+*.zip
